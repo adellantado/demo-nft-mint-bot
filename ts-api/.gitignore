@@ -1,0 +1,6 @@
+dist
+.env
+uploads
+wallet.json
+node_modules
+test.app.ts
